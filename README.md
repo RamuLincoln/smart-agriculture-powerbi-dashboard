@@ -31,3 +31,15 @@ produce the best outcomes.
 - Power Query transformations
 - MySQL data preparation
 - Star-schema data modelling
+
+
+## 💡 How to Use
+1. Download the `BI_market_mindz.pbix` file from this repository.
+2. Install [Power BI Desktop](https://powerbi.microsoft.com).
+3. Open the file to explore the interactive filters and drill-down features.
+
+---
+## 👤 Author
+**Ramu Valliappan**  
+https://www.linkedin.com/in/ramu-valliappan | https://github.com/RamuLincoln/smart-agriculture-powerbi-dashboard/blob/main/crop-performance.pbix
+
