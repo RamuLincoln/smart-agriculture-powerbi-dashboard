@@ -17,13 +17,13 @@ produce the best outcomes.
 
 ## Dashboard Pages
 ### Page 1 — Crop Performance Overview
-![Page 1](page1-overview.png)
+![Page 1](page1.png)
 
 ### Page 2 — Growing Conditions Analysis  
-![Page 2](page2-analysis.png)
+![Page 2](page2.png)
 
 ### Page 3 — Final Recommendations
-![Page 3](page3-recommendations.png)
+![Page 3](page3.png)
 
 ## Tools Used
 - Power BI Desktop
